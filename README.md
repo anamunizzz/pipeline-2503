@@ -1,5 +1,7 @@
 # 🚀 Todo API com CI
 Atividade realizada por Ana Luiza Muniz e Thais Ferreira
+
+
 Este projeto é uma API simples de gerenciamento de tarefas (To-Do), desenvolvida em Python com Flask, com testes automatizados e integração contínua utilizando GitHub Actions.
 
 ## 📌 Funcionalidades
